@@ -8,7 +8,7 @@ Jekyll Garden theme lets you publish your [Obsidian](https://obsidian.md/) vault
 
 ## Documents and links
 -  [Demo website](https://jekyll-garden.github.io/)
--  [Personal Website](https://hiran.in/)
+-  [Personal Website](https://antonywillbert.com/)
 -  [Feature List](https://jekyll-garden.github.io/post/features)
 -  [How to Setup](https://jekyll-garden.github.io/post/how-to)
 
