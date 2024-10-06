@@ -1,3 +1,10 @@
+---
+layout: Introduction post
+title: Digital garden
+date: 2024-10-06
+categories:
+  - Introduction
+---
 
 Welcome to my digital garden !
 
@@ -19,4 +26,3 @@ So here we are sometimes I might write about all of these in these website and s
 
 - What would you do spending your time on this earth ? 
 - Life is all about giving and we are just here by a lottery ? 
-- 
